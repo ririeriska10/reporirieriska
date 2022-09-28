@@ -10,7 +10,7 @@ Daftar biodata Siswa Dicoding Academy
    Alamat : Jln. Loa Bakung RT.21 No.04
  
 2. Nama   : Erna Mulyani
-   NIM    : H2020000002
+   NIM    : H2020000006
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
@@ -35,4 +35,4 @@ Daftar biodata Siswa Dicoding Academy
    JK     : Laki - Laki
    Agama  : Islam
    TTL    : Ambon, 19 Agustus 2003
-   Alamat : Jln. Loa Bakung RT.21 No.04
+   Alamat : Jln. Jakarta RT.14 No.33
